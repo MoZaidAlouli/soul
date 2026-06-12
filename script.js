@@ -66,7 +66,7 @@ document.addEventListener('DOMContentLoaded', () => {
                         otherItem.classList.remove('active');
                     }
                 });
-                
+
                 // Toggle current item
                 item.classList.toggle('active');
             });
